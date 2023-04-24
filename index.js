@@ -23,4 +23,4 @@ client.on('interactionCreate', async (interaction) => {
 })
 
 
-client.login("MTA5OTg5NDg4NTQ2MjU4OTQ1MA.GKhlJl.gG2532MxvrfrGQ3A65vIqjkVRbOmTeSw6JuInM");
+client.login("INSERT-TOKEN-HERE");
